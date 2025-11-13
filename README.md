@@ -126,4 +126,6 @@ Jenkins will automatically pull the code, build the project, run tests, and depl
 ### Step 5: Test the Setup
 
 Open your browser and visit:
-👉 http://13.127.253.139/
+👉 http://13.127.253.139:3000
+
+![alt text](image-1.png)
