@@ -4,8 +4,6 @@ It consists of:
 
 - Node.js App Container (Backend)
 
-- Nginx Proxy Container (Frontend/Reverse Proxy)
-The setup includes two tiers:
 
 1. Application Tier (Node.js):
 Handles application logic and runs on port 3000 inside the container.
